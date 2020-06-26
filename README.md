@@ -103,7 +103,7 @@ Bloco de código
 print('Hello world')
 ```
 
----|---|---
-1|Eugênio|22
+--- | --- | ---
+1 | Eugênio | 22
 
 `c.cont()`
