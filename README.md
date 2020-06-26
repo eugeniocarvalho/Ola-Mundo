@@ -85,3 +85,17 @@ ou
 - [x] Tarefa
 
 - [ ] Tarefa
+
+***
+
+> Citação em blocos
+
+Um "Código embutido"
+
+
+
+&nbsp;
+Bloco de código
+'''
+print('Hello world')
+'''
