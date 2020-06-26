@@ -102,8 +102,8 @@ Bloco de código
 ```
 print('Hello world')
 ```
-
 --- | --- | ---
-1 | Eugênio | 22
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 `c.cont()`
