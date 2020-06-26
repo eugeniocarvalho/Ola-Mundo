@@ -11,18 +11,32 @@ Alterações para compreender MarkDwon
 Testanto linguagem **MarkDown** no *github* 
 Oi
 
+
+&nbsp;
 **Oi**
 
+
+&nbsp;
 __Oi__
 
+
+&nbsp;
 *Oi*
 
+
+&nbsp;
 _Oi_
 
+
+&nbsp;
 ~Oi~
 
+
+&nbsp;
 ~~Oi~~
 
+
+&nbsp;
 LINHA
 
 ---
