@@ -100,4 +100,4 @@ Bloco de código
 print('Hello world')
 ```
 
-![https://www.oficinadanet.com.br/imagens/post/16111/750xNxcapa-git.jpg.pagespeed.ic.60e7de5a8e.jpg]
+![Imagem](https://www.oficinadanet.com.br/imagens/post/16111/750xNxcapa-git.jpg.pagespeed.ic.60e7de5a8e.jpg)
