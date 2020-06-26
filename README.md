@@ -1,5 +1,8 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git e Github
+
+![Imagem](https://www.oficinadanet.com.br/imagens/post/16111/750xNxcapa-git.jpg.pagespeed.ic.60e7de5a8e.jpg)
+
+ Primeiro repositório do curso de Git e Github :sob::sob::ok_hand:
 
  Repositório criado durante uma aula do Curso em Vídeo
  
@@ -100,4 +103,7 @@ Bloco de código
 print('Hello world')
 ```
 
-![Imagem](https://www.oficinadanet.com.br/imagens/post/16111/750xNxcapa-git.jpg.pagespeed.ic.60e7de5a8e.jpg)
+---|---|---
+1|Eugênio|22
+
+`c.cont()`
